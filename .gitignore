@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 file3.txt
 /folder/
 =======
@@ -7,6 +8,10 @@ file3.txt
 file3.txt
 /folder/
 >>>>>>> 10989b8 (which commit)
+=======
+file3.txt
+/folder/
+>>>>>>> ec1bab4ab0c80fc7d3c7d035981f30e4a9cc30cf
 =======
 file3.txt
 /folder/
